@@ -1,2 +1,3 @@
 # tuto-sass
-h
+
+Exercice sur le langage sass (en cours)
